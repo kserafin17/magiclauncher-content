@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "magic-origins",
+      "name": "Magic Origins",
+      "description": "Zacznij swoją magiczną podróż z modem Origins. Wybierz rasę i odkryj unikalne zdolności. Zawiera ponad 15 rasowych zdolności, questy i dedykowane wymiary.",
+      "mcVersion": "1.20.1",
+      "loader": "fabric",
+      "loaderVersion": "",
+      "icon": "star",
+      "color": "#A855F7",
+      "image": "./magic-origins.png",
+      "mods": []
+    },
+    {
+      "id": "magic-pvp",
+      "name": "Magic PVP",
+      "description": "Najlepsze doświadczenie PVP na wersji 1.8.9. Zoptymalizowany pod kątem walki z dedykowanymi modami poprawiającymi responsywność i FPS.",
+      "mcVersion": "1.8.9",
+      "loader": "forge",
+      "loaderVersion": "",
+      "icon": "sword",
+      "color": "#EF4444",
+      "image": "./magic-instance-2.png",
+      "mods": []
+    },
+    {
+      "id": "magic-survival",
+      "name": "Magic Survival",
+      "description": "Rozbudowane doświadczenie survivalowe z nowymi biomami, strukturami, kraftingiem i systemem zadań. Zawiera Create, Farmer's Delight i wiele więcej.",
+      "mcVersion": "1.20.4",
+      "loader": "fabric",
+      "loaderVersion": "",
+      "icon": "mountain",
+      "color": "#22C55E",
+      "image": "./magic-instance-3.png",
+      "mods": []
+    },
+    {
+      "id": "magic-skyblock",
+      "name": "Magic Skyblock",
+      "description": "Zacznij na jednej wyspie magii i rozbuduj ją do imponującego imperium. Zawiera automatyzację, magię i setki godzin contentu.",
+      "mcVersion": "1.20.1",
+      "loader": "forge",
+      "loaderVersion": "",
+      "icon": "cloud",
+      "color": "#3B82F6",
+      "image": "./magic-instance-4.png",
+      "mods": []
+    }
+  ]
+}
